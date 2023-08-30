@@ -1,6 +1,6 @@
 # Data Structures With C
 
-### Implementation of :
+## Implementation of :
 
 #### Stack.
 #### Queue.
