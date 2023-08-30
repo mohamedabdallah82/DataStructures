@@ -2,7 +2,7 @@
 
 ## Implementation of :
 
-#### Stack.
-#### Queue.
-#### Single Linked List.
-#### Double Linked List.
+### Stack.
+### Queue.
+### Single Linked List.
+### Double Linked List.
